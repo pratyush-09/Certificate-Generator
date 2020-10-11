@@ -1,0 +1,9 @@
+# Certificate-Generator
+
+1. The directory contains two Python files, model.py and model.ipynb, one sample template, a folder for storing the generated certificates and a data file from which data has been taken.
+2. The model.py file can be run from any Python IDE and the .ipynb file can be run from Jupyter Notebook. (Both the files consists the same code and work the same.)
+3. The template path can be set easily for any sample template and the same follows for the data file.
+4. The output path and the file name can be modified accordingly, as per convinience.
+5. We have given custom positioning which is better than the ML trained model because a large number of sample templates are required to train the model and still, it would differ for a completely new template.
+6. In our model, the custom positioning gives us the flexibility to position our text according to a particular template with refernce to the dimensions of the certificate. 
+7. Any number of parameters can be added just by copy pasting the same code and changing the variables making it a proper flexible model.
